@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShakirFarhan/Realtime-Chat.git"
+    "url": "git+https://github.com/UmarHamzaChauhan/Chat-App.git"
   },
   "author": "Shakir Farhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShakirFarhan/Realtime-Chat/issues"
+    "url": "https://github.com/UmarHamzaChauhan/Chat-App/issues"
   },
-  "homepage": "https://github.com/ShakirFarhan/Realtime-Chat#readme"
+  "homepage": "https://github.com/UmarHamzaChauhan/Chat-App#readme"
 }
